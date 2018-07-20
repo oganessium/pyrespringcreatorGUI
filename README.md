@@ -1,7 +1,7 @@
 # pyrespringcreatorGUI
 respring logo maker (GUI edition) for Unix and Windows (requires Ubuntu/Debian subsystem)
 
-STILL BETA
+STILL BETA (aka it might be broken) make an issue thread if you have an issue pls
 
 Prerequisites:
 - Python
