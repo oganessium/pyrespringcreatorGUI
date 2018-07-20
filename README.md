@@ -3,6 +3,8 @@ respring logo maker (GUI edition) for Unix and Windows (requires Ubuntu/Debian s
 
 STILL BETA (aka it might be broken) make an issue thread if you have an issue pls
 
+tested on windows 10 and macOS sierra (Both python 3)
+
 Prerequisites:
 - Python
 - Ubuntu or Debian linux subsystem (if on windows)
